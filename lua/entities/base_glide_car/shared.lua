@@ -12,7 +12,7 @@ ENT.VehicleType = Glide.VEHICLE_TYPE.CAR
 -- Should we prevent players from editing these NW variables?
 ENT.UneditableNWVars = {}
 
--- How long is the on/off cycle for turn signals?
+-- How long is thef on/off cycle for turn signals?
 ENT.TurnSignalCycle = 0.8
 
 -- Should this vehicle use the siren system?
